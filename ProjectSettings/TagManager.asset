@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Off Trail Side
+  - Platform
+  - Should Jump
+  - Flower
+  - Should Fly
+  - Player Fly Trigger
+  - Fly Alert Trigger
   layers:
   - Default
   - TransparentFX
